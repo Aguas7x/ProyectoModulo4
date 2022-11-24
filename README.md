@@ -13,4 +13,6 @@ import PIL.ImageTk
 
 En esta pokedex se muestra el nombre del pokemon, ya sea que los busques por su numero de pokemon o nombre, tambien se muestra su nombre, tipo y en el caso de haber un error en la busqueda, muestra un mensaje de pokemon no encontrado
 
+NOTA: SE DEBE PRESIONAR LA TECLA BUSCAR POKEMON 
+
 ![image](https://user-images.githubusercontent.com/111818969/202890216-2fd151f0-cfc3-4656-9b0e-c2d4427b26ab.png)
